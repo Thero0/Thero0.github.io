@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+header{
+    background: url(./bg_img\ 1.png);
+}
+.navbar {
+    width: 100%;
+    background: transparent !important;
+}
+
+header .navbar .collapse .nav-link {
+    color:  #4E9F0D;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+header .navbar .collapse .nav-link:hover{
+    color: white;
+}
+
+header .navbar .a1{
+    background:  #4E9F0D;
+    color: #FFFFFF;
+    padding: 5px 30px;
+}
+ .navbar .navbar-toggler{
+    color: white !important;
+    background: white;
+}
+header h1{
+    color: #4E9F0D;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 80px;
+}
+header p{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: normal;
+}
+header .narh{
+    
+font-family: Raleway;
+font-style: normal;
+font-weight: 100;
+font-size: 60px;
+
+text-decoration: none;
+background: #4E9F0D;
+color: #FFFFFF;
+padding: 16px 84px ;
+margin-top: 50px;
+}
+.pastga{
+    padding-bottom: 90px;
+}
+main{
+    background: #000000;
+}
+main .navbar .collapse .nav-link {
+    color: #7A7A7A;
+    font-size: 20px;
+    font-weight: 300;
+}
+main  .navbar .collapse .nav-link:hover{
+
+    color: #4E9F0D;
+}
+main .card button{
+    width: 100%;
+    height: 100%;
+    background: #4E9F0D;
+    opacity: 0;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+main .card button:hover{
+    opacity: 0.5;
+}
+main .card{
+    background: #000000;
+}
+main h4{
+    color: #4E9F0D ;
+    font-size: 24px;
+    font-weight: bold;
+}
+main p{
+   
+        color: #FFFFFF;
+        font-size: 16px;
+        font-weight: normal;
+   
+}
+main .blok{
+    background: url(./section_bg\ 1.png);
+}
+main h2{
+    color: #4E9F0D;
+    font-size: 36px;
+    font-weight: bold;
+}
+main h2::after{
+    content: '';
+    display: block;
+    width: 30%;
+    background: #4E9F0D;
+    height: 2px;
+    opacity: 1;
+    margin: 10px 40%;
+}
+main h6{
+    color: #4E9F0D;
+    font-size: 36px;
+    font-weight: bold;
+}
+main  .a1{
+    background:  #4E9F0D;
+    color: #FFFFFF;
+    padding: 5px 30px;
+}
+main b{
+    color: #4E9F0D;
+    font-size: 24px;
+    font-weight: bold;
+}
+main .a7{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+}
+main i{
+    font-size: 16px;
+    font-weight: 100;
+    color: #FFFFFF;
+}
